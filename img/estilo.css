@@ -1,11 +1,19 @@
 h1{
-    color:blue
+    color:rgb(47, 0, 255)
 }
 
 p{
     color:black
 }
 
-backgroud{
-    color:azure
+*{
+    font-family: "maven pro",sans-serif;
+    margin:0
+    padding:0
+}
+
+header{
+    background-color:beige
+    margin-botton:10px;
+    padding-botton:10px;
 }
